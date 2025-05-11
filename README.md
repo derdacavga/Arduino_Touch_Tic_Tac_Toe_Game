@@ -25,7 +25,8 @@ TFT_eSPI by Bodmer: Can be installed via the Arduino IDE Library Manager.
 🔧 Setup and Configuration
 Library Installation: Install the TFT_eSPI library mentioned above through your Arduino IDE's Library Manager.
 TFT_eSPI Configuration (VERY IMPORTANT!):
-For the TFT_eSPI library to work correctly, pin configurations and driver settings must be made. These settings are located in the User_Setup.h file (or a file created by copying from User_Setup_Select.h) within the TFT_eSPI folder in your Arduino libraries directory.
+For the TFT_eSPI library to work correctly, pin configurations and driver settings must be made. These settings are located in the User_Setup.h file 
+within the TFT_eSPI folder in your Arduino libraries directory.
 Make sure to adjust the following settings according to your hardware:
 Enable the correct driver: #define ILI9341_DRIVER
 Define the SPI pins your ESP32-S3 uses for the TFT display: TFT_MOSI, TFT_SCLK, TFT_CS, TFT_DC, TFT_RST.
