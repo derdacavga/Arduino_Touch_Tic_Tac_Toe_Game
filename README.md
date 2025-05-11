@@ -1,6 +1,7 @@
 # Touch Tic Tac Toe Game Developed Using TFT_eSPI Library with ESP32-S3
 
-This project is a classic Tic Tac Toe (XOX) game developed using the ESP32-S3 microcontroller and an ILI9341 TFT screen (with an XPT2046 touch controller). The game is written with the popular TFT_eSPI library and features automatic touchscreen calibration upon initial startup.
+This project is a classic Tic Tac Toe (XOX) game developed using the ESP32-S3 microcontroller and an ILI9341 TFT screen (with an XPT2046 touch controller). 
+The game is written with the popular TFT_eSPI library and features automatic touchscreen calibration upon initial startup.
 
 🎮 Features
 Classic 3x3 Tic Tac Toe game logic.
