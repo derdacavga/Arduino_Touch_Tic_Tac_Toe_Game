@@ -4,6 +4,8 @@ A classic Tic Tac Toe (XOX) game developed using the **ESP32-S3** microcontrolle
 
 ---
 
+video link : https://www.youtube.com/watch?v=xX3SmFrZsPE
+
 ## ✨ Features
 
 - 🟦 Classic 3x3 Tic Tac Toe game logic  
